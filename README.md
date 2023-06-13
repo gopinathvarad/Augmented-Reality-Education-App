@@ -30,3 +30,5 @@ Some of the Screenshots have been uploaded below !
 ## <br> Deveopement of model in Unity Engine 
 ![Unity2](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/08ccf90a-b7a4-44a8-bf53-73596d7c26a0)
 
+## <br> Vuforia Engine Database 
+![Vuforia 2](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/06c5fc91-37e2-428c-a7b2-a9f71067afa8)
