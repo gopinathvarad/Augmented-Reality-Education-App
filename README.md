@@ -52,7 +52,7 @@ Some of the Screenshots have been uploaded below !
 ![ostrich2](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/4bcc721f-c368-4760-978c-c7d4ff7038a0)
 
 ## <br> Virtual Buttons Image Target
-### Just place your finger on top of the virtual button to tregger the respective model!
+### Just place your finger on top of the virtual button to trigger the respective model!
 
 ![photo_2023-06-04_14-23-17](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/d8d4c29c-2598-4d43-905e-d7e6c7f85360)
 
