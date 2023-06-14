@@ -43,3 +43,11 @@ Some of the Screenshots have been uploaded below !
 
 ![photo_2023-06-14_21-03-51](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/a565725d-2454-44b0-b3e8-4f49b74ebc3a)
 
+## <br> AR Video Image Targets
+
+![dogg](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/cf77447f-0ac0-4bf8-8339-34415b54cf97)
+![giraffe](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/dcf32530-2b52-492d-8c7a-87e5306d2402)
+![horse](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/24a81fd6-fcc3-44f6-a641-bd8b23943dd7)
+![lion](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/7c9bee14-69f5-4da2-b876-5f60130e420e)
+![ostrich2](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/4bcc721f-c368-4760-978c-c7d4ff7038a0)
+
