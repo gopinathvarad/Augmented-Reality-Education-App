@@ -32,3 +32,14 @@ Some of the Screenshots have been uploaded below !
 
 ## <br> Vuforia Engine Database 
 ![Vuforia 2](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/06c5fc91-37e2-428c-a7b2-a9f71067afa8)
+
+## <br> AR Model Image Targets
+![photo_2023-06-14_21-04-15](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/9505473a-9d9d-4955-963e-88883788c154)
+![photo_2023-06-14_21-04-10](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/402bc0aa-5bb9-4545-b9a2-fed0aba89372)
+![photo_2023-06-14_21-04-06](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/a69b8036-43e6-4379-b32c-1784a7c7c4cf)
+
+![photo_2023-06-14_21-04-03](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/4caa4abb-3994-4ee4-9d97-421ef7b08e32)
+![photo_2023-06-14_21-03-59](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/a1cd5f3a-a659-4ac3-bbf3-77bb5215733c)
+
+![photo_2023-06-14_21-03-51](https://github.com/gopinathvarad/Augmented-Reality-Education-App/assets/65111584/a565725d-2454-44b0-b3e8-4f49b74ebc3a)
+
