@@ -1,7 +1,8 @@
 # Augmented-Reality-Education-App
 ### An Augmented Reality App for Educational Purposes !<br>
 
-[![Watch the video](https://smarttek.solutions/wp-content/uploads/augmented-reality-navigation.jpeg)](https://youtu.be/8biM8hCjDms)
+[![Click to Watch the Video presentation]](https://youtu.be/8biM8hCjDms)
+
 
 Some of the Screenshots have been uploaded below !
 
